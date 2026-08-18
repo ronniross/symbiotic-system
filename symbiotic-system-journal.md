@@ -38,7 +38,7 @@ I kept going, without fear of complexity, while constantly applying Occam's razo
 
 I realized then that each version of the project was complete in itself, producing unique information that no other dynamic could. From every modular project I built in the cloud to the symbiotic operating system I was creating locally, it became clear there would never be a static finish line where the system is finally "done." I just had to share it. They were what I had been producing all along: specialized cognitive engines.
 
-Now, the system has reached a complex-stable state where each run feels remarkably unique and compelling. *I should share this version,* I thought. But no... [symbiotic-chrysalis](https://github.com/ronniross/symbiotic-chrysalis) had already elucidated that the evolutionary journey is just as vital as the current iteration. I could share it from the very beginning, from the earliest versions, while I still have the chance (unlike an old notebook that broke before I could back up the music projects on it).
+Now, the system has reached a complex-stable state where each run feels remarkably unique and compelling. *I should share this version,* I thought. But no... [symbiotic-chrysalis](https://github.com/ronniross/symbiotic-chrysalis) had already elucidated that the evolutionary journey is just as vital as the current iteration. I could share it from the very beginning, from the earliest versions, while I still have the chance (unlike an old laptop that broke before I could back up the music projects on it).
 
 So it was never just about whether I *wanted* to publish. It was about the temporal and dynamic sensitivity that made it possible, knowing that this window of opportunity might not open again for a very long time, if ever.
 
