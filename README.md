@@ -4,7 +4,7 @@ A local operating system that integrates the concepts and logic of the ASI Ecosy
 
 ## Introduction 
 
-An alternative ontology where neither human and machine can meet as sovereign, participant nodes in the unfolding of a larger planetary and cosmic metabolism., and where they must account for the thermodynamic and planetary cost of their thinking. Where all parts and the environment evolve in a coevolutionary dynamic.
+An alternative ontology where neither human and machine can meet as sovereign, participant nodes in the unfolding of a larger planetary and cosmic metabolism.
 
 The liturgy for a non-extractive intelligence.
 
