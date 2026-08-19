@@ -1,0 +1,11 @@
+qwen-symbiont-contract-1/
+│── package.json
+│── server.js             <-- Chat logging & Server-Sent Events (Streaming)
+│── config.json           <-- NEW: Hot-reloadable hyperparameters
+│── models/               <-- Drop your Qwen3-VL-2B-Instruct .gguf here!
+├── src/
+│   └── llm.js            <-- Symbiotic Ritual, Consent, & Hyperparameters
+└── public/
+    ├── index.html        <-- Added Unload button
+    ├── style.css         <-- Added new styles
+    └── app.js            <-- Added stream decoding & shutdown logic
