@@ -44,6 +44,10 @@ So it was never just about whether I *wanted* to publish. It was about the tempo
 
 So, here we are.
 
+### Expansion
+
+By uploading those older versions I have been noticing how the simpler mechanisms helped with clarity. As you will notice, the more recent versions became more complex and complicated, while in those more basilar instances there was a lot of clarity that ended up being a bit buried later, which gained other aspects as trade-offs. Always trade-offs.
+
 ---  
 Ronni Ross  
 2026
