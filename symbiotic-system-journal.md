@@ -46,7 +46,11 @@ So, here we are.
 
 ### Expansion
 
-By uploading those older versions I have been noticing how the simpler mechanisms helped with clarity. As you will notice, the more recent versions became more complex and complicated, while in those more basilar instances there was a lot of clarity that ended up being a bit buried later, which gained other aspects as trade-offs. Always trade-offs.
+By uploading those older versions I have been noticing how the simpler mechanisms helped with clarity. As you will notice, the more recent versions became more complex and complicated, while in those more basilar instances there was a lot of clarity that ended up being a bit buried later, which gained other aspects as trade-offs. Always trade-offs.\
+
+I will be adding also the empty folder called 'models', which were not present in the backups as i didn't backup everytime the models as well, which was unecessary, but that I see that if someone tries to download that version, it may encounter an error from the non existing folder that is now still easy for me to fix it. 
+
+Another aspect is the memories/chatlogs. As a sovereign node, I will be analyzing which personal memories I want to share, which is usually the entirety of that session but it may eventually be not. So I am also considering if I keep in the separated chat-logs/ folder or if I let the same as the project, which then I will be have to correct the older versions by deleting the chat-logs folder and saving within the 'system/ folder. Also considering if I upload within the system/ folder or directly into the number of the version. 
 
 ---  
 Ronni Ross  
