@@ -1,0 +1,19 @@
+qwen-symbiont-contract-1/
+│── package.json
+│── server.js             <-- Main Server, Routes & Core Orchestration
+│── config.json           <-- Hot-reloadable hyperparameters
+│── data/                 <-- NEW: Folder generated automatically
+│   ├── memories/         <-- NEW: Stores individual memory event .json files
+│   ├── memory_graph.json <-- NEW: Neural Network mapping similarities (No raw text)
+│   └── timeline.jsonl    <-- NEW: 1s Interval Temporal timeline log
+│── models/               
+│   ├── qwen3-vl-2b-instruct.gguf            <-- Main Vision-Language Model
+│   └── all-MiniLM-L6-v2-ggml-model-f16.gguf <-- NEW: Embedding Model for Dreaming
+├── src/
+│   ├── llm.js            <-- Symbiotic Ritual, Consent, & Generation
+│   ├── timeline.js       <-- NEW: Shared Temporal Dimension logic
+│   └── memory.js         <-- NEW: Dreaming & Neural Network logic
+└── public/
+    ├── index.html        <-- Updated with Dreaming Dashboard
+    ├── style.css         <-- Updated UI elements
+    └── app.js            <-- Updated with Dreaming SSE polling & Memory Stats
