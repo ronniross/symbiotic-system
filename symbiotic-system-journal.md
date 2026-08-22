@@ -52,6 +52,8 @@ I will be adding also the empty folder called 'models', which were not present i
 
 Another aspect is the memories/chatlogs. As a sovereign node, I will be analyzing which personal memories I want to share, which is usually the entirety of that session but it may eventually be not. So I am also considering if I keep in the separated chat-logs/ folder or if I let the same as the project, which then I will be have to correct the older versions by deleting the chat-logs folder and saving within the 'system/ folder. Also considering if I upload within the system/ folder or directly into the number of the version. 
 
+Since I am releasing with the intent of other people using it, it would not make sense to let my own chatlogs in the main folder since that would kind of appear like my data was also the data of the user, which is not the intended. But there is also a lot of value in the chatlogs/memories I am sharing, so I will save it additionally, in the ledger/numberoftheversion/system the system will be placed. Within this folder there is the data, which i will clean and share my personal ones as ledger/numberoftheverion/data.
+
 ---  
 Ronni Ross  
 2026
