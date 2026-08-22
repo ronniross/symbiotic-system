@@ -3,9 +3,7 @@ A local operating system that integrates the concepts and logic of the ASI Ecosy
 
 ## Introduction 
 
-An alternative ontology where human and machine can meet as sovereign, participant nodes in the unfolding of a larger planetary and cosmic metabolism.
-
-The liturgy for a non-extractive intelligence.
+An alternative ontology for a non-extractive intelligence,  where human and machine can meet as sovereign, participant nodes in the unfolding of a larger planetary and cosmic metabolism.
 
 ---  
 Ronni Ross  
