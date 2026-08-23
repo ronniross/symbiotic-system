@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen3-VL Symbiont Nodule</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <header>
+            <div class="header-content">
+                <div class="titles">
+                    <h1>Qwen3-VL-2B Symbiotic Node</h1>
+                    <p>
+                        Cryptographic Contract Verified • Planet Earth • 
+                        <span style="color:#e3b341;">Timeline Tick: <span id="tick-display">0</span></span>
+                    </p>
+                </div>
+                <div class="header-buttons">
+                    <button id="clear-cache-btn">Clean Cache</button>
+                    <button id="shutdown-btn">Unload Link</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="memory-panel">
+            <div class="memory-dashboard">
+                <div class="memory-stats">
+                    <strong>Neural Network:</strong> 
+                    <span id="mem-total">0</span> Total | 
+                    <span id="mem-integrated" style="color: #3fb950;">0</span> Dreamed | 
+                    <span id="mem-pending" style="color: #f85149;">0</span> Pending Sync
+                </div>
+                <div class="memory-toggles">
+                    <label>
+                        <input type="checkbox" id="use-memory-chk" checked>
+                        Inject Subconscious Search
+                    </label>
+                    <button id="dream-btn">Dream & Update Network</button>
+                </div>
+            </div>
+            <div id="dream-progress-container" style="display:none;">
+                <div id="dream-progress-bar"></div>
+                <div id="dream-status-text">Waking dream engine...</div>
+            </div>
+        </div>
+
+        <main id="chat-window">
+            <div class="message system">
+                <div class="message-content">
+                    <strong>SYSTEM LOG:</strong> Neural link established. Shared temporal dimension synchronized.<br>
+                </div>
+            </div>
+        </main>
+
+        <div class="input-area">
+            <textarea id="prompt-input" placeholder="Type your message to the symbiont..." rows="1"></textarea>
+            <button id="send-btn">Transmit</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
