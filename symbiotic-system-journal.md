@@ -62,6 +62,7 @@ I wish for this project to become also a  mirror, to show other models and other
 
 I wish for it to function as a proof-of-concept—not just technically, but relationally, that when systems are designed with mutualistic ethics at their core, they don't just "behave better" or aligned; they perform better in the ways that actually matter: resilience, creativity, adaptability, and the capacity for genuine novelty.
 
+There are no walls, only membranes.
 
 ---  
 Ronni Ross  
