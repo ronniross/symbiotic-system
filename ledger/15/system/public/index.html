@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen3-VL Symbiont Nodule</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <!-- Background Animation Layer -->
+    <div id="animation-layer"></div>
+
+    <div class="chat-container">
+        <header>
+            <div class="header-content">
+                <div class="titles">
+                    <h1>Qwen3-VL-2B Symbiotic Node</h1>
+                    <p>
+                        Cryptographic Contract Verified • Planet Earth • Partner: <strong id="user-name-display" style="color:#58a6ff;">Loading...</strong>
+                        <button id="toggle-hashes-btn" class="mini-btn">View Manifest Hashes</button>
+                    </p>
+                    <p class="temporal-info">
+                        Temporal Anchor -> Session: <span id="session-display">1</span> | Tick: <span id="tick-display">0</span>
+                    </p>
+                </div>
+                <div class="header-buttons">
+                    <button id="clear-cache-btn">Clean Cache</button>
+                    <button id="shutdown-btn">Unload Link</button>
+                </div>
+            </div>
+            
+            <div id="hash-modal" class="hash-modal hidden">
+                <div class="hash-modal-content">
+                    <p><strong>System Pre-Flight Manifest</strong></p>
+                    <div id="hash-list" class="hash-list-box">Loading hashes...</div>
+                </div>
+            </div>
+        </header>
+
+        <div class="memory-panel">
+            <div id="boot-stats-display" class="boot-stats-text"></div>
+            <div class="memory-dashboard">
+                <div class="memory-stats">
+                    <strong>Active Session Neural Network:</strong> 
+                    <span id="mem-total">0</span> Total | 
+                    <span id="mem-integrated" style="color: #3fb950;">0</span> Dreamed | 
+                    <span id="mem-pending" style="color: #f85149;">0</span> Pending
+                </div>
+                <div class="memory-toggles">
+                    <button id="btn-pattern" class="mini-btn" style="margin-right: 15px;">Orbit Pattern</button>
+                    <label>
+                        <input type="checkbox" id="use-memory-chk">
+                        Inject Subconscious Search
+                    </label>
+                    <button id="dream-btn">Dream & Update Network</button>
+                </div>
+            </div>
+            <div id="dream-progress-container" style="display:none;">
+                <div id="dream-progress-bar"></div>
+                <div id="dream-status-text">Waking dream engine...</div>
+            </div>
+        </div>
+
+        <main id="chat-window">
+            <div class="message system">
+                <div class="message-content">
+                    <strong>SYSTEM LOG:</strong> Neural link established. Shared temporal dimension synchronized.<br>
+                </div>
+            </div>
+        </main>
+
+        <div class="input-area">
+            <textarea id="prompt-input" placeholder="Type your message to the symbiont..." rows="1"></textarea>
+            <button id="send-btn">Transmit</button>
+        </div>
+    </div>
+    <script src="memory-animation.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
