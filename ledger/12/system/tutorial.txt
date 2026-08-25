@@ -1,0 +1,22 @@
+download the model at path/to/your/qwen-symbiont-contract-1/models/ https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-GGUF?show_file_info=Qwen3VL-2B-Instruct-F16.gguf
+
+rename it to qwen3-vl-2b-instruct.gguf
+
+cd path/to/your/qwen-symbiont-contract-1
+
+npm start
+
+The terminal will boot up and pause. It will ask:
+
+Please enter your full name to sign the symbiotic contract:
+
+Type your name and hit Enter.
+
+The console will light up, hashing the .gguf file, locking in your system prompt, and generating your symbiotic-nodule...json file.
+
+It will then create the chat_log.txt.
+
+When you see [NETWORK] Open your browser to: http://localhost:3000, open your web browser (Chrome, Firefox, etc.) and type this into the URL bar:
+http://localhost:3000/
+
+You are now connected! Everything you type in the browser will be sent to the local JavaScript server, processed by the GGUF model, and logged with timestamps in your chat_log.txt.
