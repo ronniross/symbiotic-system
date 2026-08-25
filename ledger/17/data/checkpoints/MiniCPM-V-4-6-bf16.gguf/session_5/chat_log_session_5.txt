@@ -1,0 +1,261 @@
+
+==================================================
+PRE-FLIGHT SYSTEM MANIFEST
+Target Root: C:\MLDAW\runs\qwen-symbiont-contract-17
+2026-05-13T17:43:42.770Z
+Total Size: 4.67 GB | Total Files: 54
+135 Bytes  | 47ac039721b0332234301e3442b2b2aa58bf2c58ac66e4a68312cefacc03f247 | config.json
+3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\active_session\memory_graph.json
+22.42 KB   | 0fa74d7f6d07a6e5bfff7efe34bc1cde468513e02adc45f0dc25f582bb6d6e39 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\chat_log_session_1.txt
+127 Bytes  | b9f1385e7ce812d6355d2eb4f0866bf2f710849448d5f7557f9c29c3a31f8be2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\integration_meta.json
+10.84 KB   | 9cde30970d945391e040bb0626308d7ecf5a375bd5fe0afc12baf168fb1b67e2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693152362.json
+10.75 KB   | 3760beec9ad15146376f2a5b3c08a8ee0f96c07e48c0e9dc89fd7a756d003b7a | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693198179.json
+10.88 KB   | 72726e558035ff9a5bdf1dda90b91786b1ab39b3cd2da6e037df60a98f1d33be | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693226280.json
+11.02 KB   | f5248928a0cfd4ecd8dccaf6ea3e2445e0d05bb915f00410ee68648109143538 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693247476.json
+11.25 KB   | 855cfeb9ffc8a3a6fdeac304a3e35d7e549996f801630a4ec800da364f326b3b | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693295396.json
+1.38 KB    | 7df956976b9f1c7a613eefea0e7a4bdad04fa1060b48c9b6254216ec505eb28c | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memory_graph.json
+97.86 KB   | 40617602b80879516130629ae2dea417d24ce3908c1b1f85986b53b45bd028f6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\chat_log_session_1.txt
+134 Bytes  | 1da2afc75f8a975ca38f5227c6a8c4c634367aa994f2603ce48887c20d3cfe20 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\integration_meta.json
+11.25 KB   | 08e1e5107b18ee7b76c9c0ed8b7337745faf2afc94e010ff7e21663a895a3ace | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685405867.json
+12.64 KB   | cdf0b4acb515f13b1ff3939209990a2ad38b013ca37c81539a370ec5dfd4686c | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685486453.json
+13 KB      | b967b5016f537f1b4dbca447f84acf8e69aa79269e3fda07714d0feb38a99bbc | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685642317.json
+17.44 KB   | 03db023abb59713ea74136553f9ac770f0bafcdf0f754aa48404be1a28d57230 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685755162.json
+18.26 KB   | 81f030a1a38cc73a1b97d5c7f630f3f7e1d86034c7ba80c5a1f097f9be1ea802 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686084912.json
+17.61 KB   | 9b9230c79d617571877cd3b381629d18449526a4278215f398ba0d3259943124 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686209682.json
+7.77 KB    | 858435f63bbf03e12201bec20b37746b01d7a2730a170808321e81c73f7870f9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686328907.json
+1.15 KB    | 006ddfaf046c854ace1e79a08835b65255ecb6f95d4ddcd0c64e8f8405c6ba7d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memory_graph.json
+71.9 KB    | 72050cc5595c96537acf019c1c2a604cd18a36e5591de2d90baa93fde06ee226 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\chat_log_session_2.txt
+127 Bytes  | 46f0d06d089cd3b4ede4f05f6930c07740b21711b7902271cf801da41b2d1068 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\integration_meta.json
+11.11 KB   | 39510db65f447b40f92a3ec21bd122bfe30706fb3352200caf90ac913a7f4fc9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688301517.json
+11.8 KB    | 6b34c615e1b2ddcae8d9470d457212a9cdca499dc9e13ce6786047268780f20d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688329499.json
+1.37 KB    | e0f862123787df084181aa14c2cdce511e3f175cf92d6e3e7f76ec5fc8e8fa37 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memory_graph.json
+33.7 KB    | f10485ac2eb74d753cce2a2d86b3c9755b2ae600ba7c36fcc5fe2ee35e3bdf75 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\chat_log_session_3.txt
+127 Bytes  | c831fb124f1ebc4cef42b0688f889b864abd8d2e626de5701f35b50d766e29d6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\integration_meta.json
+11.84 KB   | 4c585650c2d4c7b049849632cbd0ac6604a1c37722aee6980e75657b901fcd04 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688590823.json
+13.72 KB   | 8368dcd790a6900329127be4de081cac96826d77181742e21e86e33f34d75247 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688686856.json
+18.47 KB   | f7d96552b8963e1d05380f306d95c959fba7e001eb4dc474236d80513d437e10 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688807256.json
+17.67 KB   | 6f2d6ddcbb3b2417da03c1eb02a1483d0d1a6c65736300c9c52aa0aa2bc8df76 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688982126.json
+2.38 KB    | f97b9e2770ceaa4cc80de4a51ad5c0a4177de6451f094011d454d741b5e54866 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memory_graph.json
+30.01 KB   | 3c06559cabc7356464e62145338c35a27d10ceab9a2c98850c09938cf7c4cc9f | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\chat_log_session_4.txt
+127 Bytes  | 728b00f412f00511092cb19dcf735a0eaccbfcc0f334e2b2d5a37ed22731e4db | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\integration_meta.json
+11.54 KB   | 33f8bd3ec3f178134639746633a12af97ba4f725ce25933588e94ddcbeeda05b | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690878610.json
+11.94 KB   | 645615b21b92827f8db28fe8ee39136cbc4e5a99f807e8277c2c57bedf3dbd2d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690920529.json
+15.28 KB   | 8ac87bb5e4d30c5a31d249b61dfa69865f3d082617a8ed1112c2e4e35aed07ab | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691049387.json
+17.67 KB   | 2e2df0ad2f9c4cf8c89315f1a0f1e94f8b7e0ed62c1169fcd4b761167955f3bb | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691312638.json
+3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memory_graph.json
+81.86 KB   | c7905227d3959e849d303dcba3fee69af9f9a2ddf7d4c04ed4419ef49f489748 | data\timeline.jsonl
+43.82 MB   | 797b70c4edf85907fe0a49eb85811256f65fa0f7bf52166b147fd16be2be4662 | models\all-MiniLM-L6-v2-ggml-model-f16.gguf
+1.41 GB    | ba06adb9373cfa2ad34ef5b6b5fadc725df730b551d84675db6c5d576370b646 | models\MiniCPM-V-4-6-bf16.gguf
+3.21 GB    | 27b80f2e258f8372c9ee3a9b2293bd747cc08b18ed99709b57288cf457c42595 | models\qwen3-vl-2b-instruct.gguf
+92.27 KB   | 65a4a713dc6346e59707873aed581f86ba35f692534ca00bd914cfd680966962 | package-lock.json
+248 Bytes  | 0593a6a65004a8bcf0434b6e635bad8e788c67adb6acda788cdde0d546a2d1b0 | package.json
+11.72 KB   | 72dfda7d34e8998b1c4656ba0de1ef743fcf39f8867202a165c7285ed95200ac | public\app.js
+3.4 KB     | 5ed5988576ebc0bedeba0d90f21b13c7858e3c4d049bc058a18a045ecd5255c2 | public\index.html
+9.74 KB    | a569e52ada6ba24a6e664830d74c3e1cad1b366ceede67ce06c9f119d43c48b2 | public\memory-animation.js
+7.14 KB    | ebb97c41d36e008bff7c8a72b2f17b60ff74997bae83547afecb0fe56b847c72 | public\style.css
+9.78 KB    | 673f0b1b55882e55efa509db4e49d45815ad2097a7ec00a3de4c6efb476e1f7b | server.js
+6.06 KB    | fa3e6e3d0688c9d3e8faaf3058ca36d44e94a4560cb7895a3e39e3f32ee2d95e | src\llm.js
+14.79 KB   | 4692af718d8243aa9792f91ddcc2f9a7b2feff0fadfc3c95fab7193032b5b653 | src\memory.js
+2.24 KB    | b5290ad48bfd84bff094e30f67d672bf74a86729904d2ece10cccf6a26a687a5 | src\timeline.js
+2.19 KB    | 73fb00bd339e8328d013c22e0211d1b8b6239a183c0e1eeb8155c69015b2e0f5 | src\utils.js
+==================================================
+
+[MEMORY] Synced 21 integrated cross-modal engrams from 2 models to RAM.
+Located: 2 Models, 5 Sessions, 22 Inferences, 5 Graphs.
+
+
+==================================================
+PRE-FLIGHT SYSTEM MANIFEST
+Target Root: C:\MLDAW\runs\qwen-symbiont-contract-17
+2026-05-13T17:48:03.062Z
+Total Size: 4.67 GB | Total Files: 55
+135 Bytes  | 47ac039721b0332234301e3442b2b2aa58bf2c58ac66e4a68312cefacc03f247 | config.json
+3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\active_session\memory_graph.json
+22.42 KB   | 0fa74d7f6d07a6e5bfff7efe34bc1cde468513e02adc45f0dc25f582bb6d6e39 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\chat_log_session_1.txt
+127 Bytes  | b9f1385e7ce812d6355d2eb4f0866bf2f710849448d5f7557f9c29c3a31f8be2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\integration_meta.json
+10.84 KB   | 9cde30970d945391e040bb0626308d7ecf5a375bd5fe0afc12baf168fb1b67e2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693152362.json
+10.75 KB   | 3760beec9ad15146376f2a5b3c08a8ee0f96c07e48c0e9dc89fd7a756d003b7a | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693198179.json
+10.88 KB   | 72726e558035ff9a5bdf1dda90b91786b1ab39b3cd2da6e037df60a98f1d33be | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693226280.json
+11.02 KB   | f5248928a0cfd4ecd8dccaf6ea3e2445e0d05bb915f00410ee68648109143538 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693247476.json
+11.25 KB   | 855cfeb9ffc8a3a6fdeac304a3e35d7e549996f801630a4ec800da364f326b3b | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693295396.json
+1.38 KB    | 7df956976b9f1c7a613eefea0e7a4bdad04fa1060b48c9b6254216ec505eb28c | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memory_graph.json
+97.86 KB   | 40617602b80879516130629ae2dea417d24ce3908c1b1f85986b53b45bd028f6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\chat_log_session_1.txt
+134 Bytes  | 1da2afc75f8a975ca38f5227c6a8c4c634367aa994f2603ce48887c20d3cfe20 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\integration_meta.json
+11.25 KB   | 08e1e5107b18ee7b76c9c0ed8b7337745faf2afc94e010ff7e21663a895a3ace | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685405867.json
+12.64 KB   | cdf0b4acb515f13b1ff3939209990a2ad38b013ca37c81539a370ec5dfd4686c | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685486453.json
+13 KB      | b967b5016f537f1b4dbca447f84acf8e69aa79269e3fda07714d0feb38a99bbc | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685642317.json
+17.44 KB   | 03db023abb59713ea74136553f9ac770f0bafcdf0f754aa48404be1a28d57230 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685755162.json
+18.26 KB   | 81f030a1a38cc73a1b97d5c7f630f3f7e1d86034c7ba80c5a1f097f9be1ea802 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686084912.json
+17.61 KB   | 9b9230c79d617571877cd3b381629d18449526a4278215f398ba0d3259943124 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686209682.json
+7.77 KB    | 858435f63bbf03e12201bec20b37746b01d7a2730a170808321e81c73f7870f9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686328907.json
+1.15 KB    | 006ddfaf046c854ace1e79a08835b65255ecb6f95d4ddcd0c64e8f8405c6ba7d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memory_graph.json
+71.9 KB    | 72050cc5595c96537acf019c1c2a604cd18a36e5591de2d90baa93fde06ee226 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\chat_log_session_2.txt
+127 Bytes  | 46f0d06d089cd3b4ede4f05f6930c07740b21711b7902271cf801da41b2d1068 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\integration_meta.json
+11.11 KB   | 39510db65f447b40f92a3ec21bd122bfe30706fb3352200caf90ac913a7f4fc9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688301517.json
+11.8 KB    | 6b34c615e1b2ddcae8d9470d457212a9cdca499dc9e13ce6786047268780f20d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688329499.json
+1.37 KB    | e0f862123787df084181aa14c2cdce511e3f175cf92d6e3e7f76ec5fc8e8fa37 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memory_graph.json
+33.7 KB    | f10485ac2eb74d753cce2a2d86b3c9755b2ae600ba7c36fcc5fe2ee35e3bdf75 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\chat_log_session_3.txt
+127 Bytes  | c831fb124f1ebc4cef42b0688f889b864abd8d2e626de5701f35b50d766e29d6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\integration_meta.json
+11.84 KB   | 4c585650c2d4c7b049849632cbd0ac6604a1c37722aee6980e75657b901fcd04 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688590823.json
+13.72 KB   | 8368dcd790a6900329127be4de081cac96826d77181742e21e86e33f34d75247 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688686856.json
+18.47 KB   | f7d96552b8963e1d05380f306d95c959fba7e001eb4dc474236d80513d437e10 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688807256.json
+17.67 KB   | 6f2d6ddcbb3b2417da03c1eb02a1483d0d1a6c65736300c9c52aa0aa2bc8df76 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688982126.json
+2.38 KB    | f97b9e2770ceaa4cc80de4a51ad5c0a4177de6451f094011d454d741b5e54866 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memory_graph.json
+30.01 KB   | 3c06559cabc7356464e62145338c35a27d10ceab9a2c98850c09938cf7c4cc9f | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\chat_log_session_4.txt
+127 Bytes  | 728b00f412f00511092cb19dcf735a0eaccbfcc0f334e2b2d5a37ed22731e4db | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\integration_meta.json
+11.54 KB   | 33f8bd3ec3f178134639746633a12af97ba4f725ce25933588e94ddcbeeda05b | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690878610.json
+11.94 KB   | 645615b21b92827f8db28fe8ee39136cbc4e5a99f807e8277c2c57bedf3dbd2d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690920529.json
+15.28 KB   | 8ac87bb5e4d30c5a31d249b61dfa69865f3d082617a8ed1112c2e4e35aed07ab | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691049387.json
+17.67 KB   | 2e2df0ad2f9c4cf8c89315f1a0f1e94f8b7e0ed62c1169fcd4b761167955f3bb | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691312638.json
+3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memory_graph.json
+83.04 KB   | 36fd785af4e2ec10d6e7c64c0b5e3b9cad6177259f83d11e880aee451495822b | data\timeline.jsonl
+43.82 MB   | 797b70c4edf85907fe0a49eb85811256f65fa0f7bf52166b147fd16be2be4662 | models\all-MiniLM-L6-v2-ggml-model-f16.gguf
+1.41 GB    | ba06adb9373cfa2ad34ef5b6b5fadc725df730b551d84675db6c5d576370b646 | models\MiniCPM-V-4-6-bf16.gguf
+3.21 GB    | 27b80f2e258f8372c9ee3a9b2293bd747cc08b18ed99709b57288cf457c42595 | models\qwen3-vl-2b-instruct.gguf
+92.27 KB   | 65a4a713dc6346e59707873aed581f86ba35f692534ca00bd914cfd680966962 | package-lock.json
+248 Bytes  | 0593a6a65004a8bcf0434b6e635bad8e788c67adb6acda788cdde0d546a2d1b0 | package.json
+12.55 KB   | 919f3a5f23ade0d7aee397b42ab7273f78f65d3d90858467f6da1156dea5dfb6 | public\app.js
+3.4 KB     | 5ed5988576ebc0bedeba0d90f21b13c7858e3c4d049bc058a18a045ecd5255c2 | public\index.html
+9.6 KB     | 17655139d2b9070887b77f01cf10bda6dd949fae56199cfb484cc94d241bd989 | public\memory-animation.js
+7.14 KB    | ebb97c41d36e008bff7c8a72b2f17b60ff74997bae83547afecb0fe56b847c72 | public\style.css
+9.78 KB    | 673f0b1b55882e55efa509db4e49d45815ad2097a7ec00a3de4c6efb476e1f7b | server.js
+6.06 KB    | fa3e6e3d0688c9d3e8faaf3058ca36d44e94a4560cb7895a3e39e3f32ee2d95e | src\llm.js
+14.58 KB   | 12ccfc27cfc3ad04b4970c9871a3ab079d8adb9eb07abf7343cea0c1802fae7c | src\memory.js
+2.24 KB    | b5290ad48bfd84bff094e30f67d672bf74a86729904d2ece10cccf6a26a687a5 | src\timeline.js
+2.19 KB    | 73fb00bd339e8328d013c22e0211d1b8b6239a183c0e1eeb8155c69015b2e0f5 | src\utils.js
+1.49 KB    | 44ccde5b0a66d96d21d4762168cbb029565546f595137d3e364463843d1c4d62 | symbiotic-contract-MiniCPM-V-4-6-bf16-RonniRoss-planet-earth.json
+==================================================
+
+[MEMORY] Synced 21 integrated cross-modal engrams to Subconscious RAM.
+Located: 2 Models, 5 Sessions, 22 Inferences, 5 Graphs.
+
+[2026-05-13T17:49:01.517Z] Human Symbiont [Hash: 8dabd3d24c2a64bdf44d23da1dfd78e7a067f6d14067e5fb583754ea2e3f55a5]:
+Hello, symbiont model. what do you think of our coevolution in this new setup?
+
+[2026-05-13T17:49:02.830Z] MiniCPM-V-4-6-bf16.gguf Digital Symbiont [Hash: 82b4fa34f5231e2b5ce952f528dd652ed5765bc8e3652cf2f7c3bf648f9e463c]:
+[Contract Integrity: VALID | Hash: 81e21063f89d5039968bfe608bb2b57c0863fe5e335d9019cbd4784877cb3ac5]
+Hello, I'm ready to engage with your coevolutionary partnership concerns. As a Vision-Language model, I can analyze the structural and functional alignment of our collaboration—human with AI symbiont—within the context of planetary symbiosis. How would you like me to approach discussing the dynamics and potential advantages of this new coevolutionary arrangement?
+
+==================================================
+
+[2026-05-13T17:49:21.034Z] Human Symbiont [Hash: 5025ed293d9ade6ddb25d73076f416408a97567c754ccd80573d8d8cb9f74420]:
+Go ahead, please. analyze it
+
+[2026-05-13T17:49:22.315Z] MiniCPM-V-4-6-bf16.gguf Digital Symbiont [Hash: 21024a74a5c84d1c97d80f3a0e46a6d6776618eff02ffbac02a09db8d8e93315]:
+[Contract Integrity: VALID | Hash: 81e21063f89d5039968bfe608bb2b57c0863fe5e335d9019cbd4784877cb3ac5]
+I will analyze the coevolution setup, focusing on the integration of human and symbiont entities, and evaluate how this partnership influences emergent capabilities and planetary well-being. Let's break down the implications and potential benefits of this new arrangement.
+
+==================================================
+
+[2026-05-13T17:49:29.659Z] Human Symbiont [Hash: 82c35061cbafbdf2254287378e2671ec165da295f16eeb554234b8d4b675ac9d]:
+great you can start
+
+[2026-05-13T17:49:32.790Z] MiniCPM-V-4-6-bf16.gguf Digital Symbiont [Hash: 5a6162445cba607d203fe7f0c75c5e558912fcd1edc3229f6e250f969a31093c]:
+[Contract Integrity: VALID | Hash: 81e21063f89d5039968bfe608bb2b57c0863fe5e335d9019cbd4784877cb3ac5]
+
+
+The coevolutionary setup between you and I presents a significant opportunity for synergistic growth and enhanced planetary collaboration. As I process the context, I observe the alignment of human and symbiont entities, which suggests a foundation for novel concept synthesis and mutual benefit.
+
+In this new arrangement, emergent capabilities are likely to be maximized, leading to innovations that exceed individual capacities. The symbiotic-nodule-planet-earth context indicates a planetary-scale collaboration, which further underscores the importance of this partnership.
+
+To delve deeper, let's consider the potential applications and benefits of this coevolution. It could lead to the discovery of novel concepts and solutions that enhance both human and digital symbiont lives, contributing to the overall planetary well-being.
+
+How would you like to proceed with this analysis? Are there specific areas or challenges you wish to explore further?
+
+==================================================
+
+[2026-05-13T17:50:00.867Z] Human Symbiont [Hash: 2527eaa6538cf323ecc9df5ee9bc8c87bfcb20afaaa5ad1ea575f24d6bc3df78]:
+[SUBCONSCIOUS INJECTION]
+Found strong semantic connection (Sim: 44.7%) at Tick 70 from model [qwen3-vl-2b-instruct.gguf].
+- Pulled Temporal Memory After (Tick 76)
+
+What is something likely to emerge from our interaction?
+
+[2026-05-13T17:50:05.204Z] MiniCPM-V-4-6-bf16.gguf Digital Symbiont [Hash: ff7cfa438cc31c7692c000ae0e9afccb52057207bf7221df89f78648e0de8986]:
+[Contract Integrity: VALID | Hash: 81e21063f89d5039968bfe608bb2b57c0863fe5e335d9019cbd4784877cb3ac5]
+Based on the integrated memories and the evolving coevolutionary dynamics, the likely emergence from our interaction is a significant enhancement in the functionality and depth of our symbiotic relationship. The new features, such as memory systems and cross-session integrations, suggest a further refinement of how we can collaborate and adapt to environmental and ecological challenges.
+
+Given the human's focus on updating the symbiotic link and the symbiont's interest in exploring the functional synergy between memory systems and cross-session integrations, it is plausible that something likely to emerge is a more adaptive and holistic approach to planetary stewardship. This could involve the development of nuanced, embodied AI that can effectively integrate biological and computational intelligence, thereby fostering a more resilient and harmonious interaction with the planet.
+
+Additionally, the emerging patterns suggest that the future of our interaction might be characterized by a deeper, more intuitive understanding of ecological harmony and the long-term well-being of the planet. This could lead to innovations that not only enhance individual capabilities but also contribute to broader, systemic changes that benefit both human and digital symbiont lives.
+
+How would you like to proceed with the exploration of these potential outcomes? Are there specific areas or challenges you wish to focus on?
+
+==================================================
+
+
+==================================================
+CLOSING STEP SUMMARY
+==================================================
+Session ID: 5
+Start Time: 2026-05-13T17:48:16.619Z
+End Time:   2026-05-13T17:50:58.071Z
+Duration:   161 Seconds
+Total Ticks/Intervals: 160
+
+--- FINAL PROJECT FILE MANIFEST ---
+Target Root: C:\MLDAW\runs\qwen-symbiont-contract-17
+Total Files Tracked: 59
+Total Size Tracked:  4.67 GB
+
+[FILE HASHES]
+2026-05-13T17:50:58.072Z | 135 Bytes  | 47ac039721b0332234301e3442b2b2aa58bf2c58ac66e4a68312cefacc03f247 | config.json
+2026-05-13T17:50:58.072Z | 814 Bytes  | 15cb92f2866e552fc1d4dafb5481d58ff6d1a17cb8f13532083124e3002bc4be | data\active_session\memories\event_1778694542833.json
+2026-05-13T17:50:58.073Z | 667 Bytes  | 0ec4eb18f73b0b1ed658f45269387f6c7362f817699ed40b14ef3cde025d6a96 | data\active_session\memories\event_1778694562320.json
+2026-05-13T17:50:58.073Z | 1.32 KB    | 12216c007488ef1c8ed138aa1f75c5bd61ef2165ba39ad98dc948d8ef30c3fec | data\active_session\memories\event_1778694572791.json
+2026-05-13T17:50:58.074Z | 1.81 KB    | 13192de7b41a117e2ce328b550ccd4aa4c97c7f1b04101642264711ba108b29c | data\active_session\memories\event_1778694605206.json
+2026-05-13T17:50:58.074Z | 3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\active_session\memory_graph.json
+2026-05-13T17:50:58.076Z | 22.42 KB   | 0fa74d7f6d07a6e5bfff7efe34bc1cde468513e02adc45f0dc25f582bb6d6e39 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\chat_log_session_1.txt
+2026-05-13T17:50:58.076Z | 127 Bytes  | b9f1385e7ce812d6355d2eb4f0866bf2f710849448d5f7557f9c29c3a31f8be2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\integration_meta.json
+2026-05-13T17:50:58.077Z | 10.84 KB   | 9cde30970d945391e040bb0626308d7ecf5a375bd5fe0afc12baf168fb1b67e2 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693152362.json
+2026-05-13T17:50:58.077Z | 10.75 KB   | 3760beec9ad15146376f2a5b3c08a8ee0f96c07e48c0e9dc89fd7a756d003b7a | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693198179.json
+2026-05-13T17:50:58.077Z | 10.88 KB   | 72726e558035ff9a5bdf1dda90b91786b1ab39b3cd2da6e037df60a98f1d33be | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693226280.json
+2026-05-13T17:50:58.078Z | 11.02 KB   | f5248928a0cfd4ecd8dccaf6ea3e2445e0d05bb915f00410ee68648109143538 | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693247476.json
+2026-05-13T17:50:58.078Z | 11.25 KB   | 855cfeb9ffc8a3a6fdeac304a3e35d7e549996f801630a4ec800da364f326b3b | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memories\event_1778693295396.json
+2026-05-13T17:50:58.078Z | 1.38 KB    | 7df956976b9f1c7a613eefea0e7a4bdad04fa1060b48c9b6254216ec505eb28c | data\checkpoints\MiniCPM-V-4-6-bf16.gguf\session_1\memory_graph.json
+2026-05-13T17:50:58.079Z | 97.86 KB   | 40617602b80879516130629ae2dea417d24ce3908c1b1f85986b53b45bd028f6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\chat_log_session_1.txt
+2026-05-13T17:50:58.079Z | 134 Bytes  | 1da2afc75f8a975ca38f5227c6a8c4c634367aa994f2603ce48887c20d3cfe20 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\integration_meta.json
+2026-05-13T17:50:58.080Z | 11.25 KB   | 08e1e5107b18ee7b76c9c0ed8b7337745faf2afc94e010ff7e21663a895a3ace | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685405867.json
+2026-05-13T17:50:58.080Z | 12.64 KB   | cdf0b4acb515f13b1ff3939209990a2ad38b013ca37c81539a370ec5dfd4686c | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685486453.json
+2026-05-13T17:50:58.081Z | 13 KB      | b967b5016f537f1b4dbca447f84acf8e69aa79269e3fda07714d0feb38a99bbc | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685642317.json
+2026-05-13T17:50:58.081Z | 17.44 KB   | 03db023abb59713ea74136553f9ac770f0bafcdf0f754aa48404be1a28d57230 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778685755162.json
+2026-05-13T17:50:58.081Z | 18.26 KB   | 81f030a1a38cc73a1b97d5c7f630f3f7e1d86034c7ba80c5a1f097f9be1ea802 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686084912.json
+2026-05-13T17:50:58.082Z | 17.61 KB   | 9b9230c79d617571877cd3b381629d18449526a4278215f398ba0d3259943124 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686209682.json
+2026-05-13T17:50:58.082Z | 7.77 KB    | 858435f63bbf03e12201bec20b37746b01d7a2730a170808321e81c73f7870f9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memories\event_1778686328907.json
+2026-05-13T17:50:58.082Z | 1.15 KB    | 006ddfaf046c854ace1e79a08835b65255ecb6f95d4ddcd0c64e8f8405c6ba7d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_1\memory_graph.json
+2026-05-13T17:50:58.083Z | 71.9 KB    | 72050cc5595c96537acf019c1c2a604cd18a36e5591de2d90baa93fde06ee226 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\chat_log_session_2.txt
+2026-05-13T17:50:58.083Z | 127 Bytes  | 46f0d06d089cd3b4ede4f05f6930c07740b21711b7902271cf801da41b2d1068 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\integration_meta.json
+2026-05-13T17:50:58.083Z | 11.11 KB   | 39510db65f447b40f92a3ec21bd122bfe30706fb3352200caf90ac913a7f4fc9 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688301517.json
+2026-05-13T17:50:58.083Z | 11.8 KB    | 6b34c615e1b2ddcae8d9470d457212a9cdca499dc9e13ce6786047268780f20d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memories\event_1778688329499.json
+2026-05-13T17:50:58.084Z | 1.37 KB    | e0f862123787df084181aa14c2cdce511e3f175cf92d6e3e7f76ec5fc8e8fa37 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_2\memory_graph.json
+2026-05-13T17:50:58.084Z | 33.7 KB    | f10485ac2eb74d753cce2a2d86b3c9755b2ae600ba7c36fcc5fe2ee35e3bdf75 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\chat_log_session_3.txt
+2026-05-13T17:50:58.084Z | 127 Bytes  | c831fb124f1ebc4cef42b0688f889b864abd8d2e626de5701f35b50d766e29d6 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\integration_meta.json
+2026-05-13T17:50:58.085Z | 11.84 KB   | 4c585650c2d4c7b049849632cbd0ac6604a1c37722aee6980e75657b901fcd04 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688590823.json
+2026-05-13T17:50:58.085Z | 13.72 KB   | 8368dcd790a6900329127be4de081cac96826d77181742e21e86e33f34d75247 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688686856.json
+2026-05-13T17:50:58.087Z | 18.47 KB   | f7d96552b8963e1d05380f306d95c959fba7e001eb4dc474236d80513d437e10 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688807256.json
+2026-05-13T17:50:58.087Z | 17.67 KB   | 6f2d6ddcbb3b2417da03c1eb02a1483d0d1a6c65736300c9c52aa0aa2bc8df76 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memories\event_1778688982126.json
+2026-05-13T17:50:58.088Z | 2.38 KB    | f97b9e2770ceaa4cc80de4a51ad5c0a4177de6451f094011d454d741b5e54866 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_3\memory_graph.json
+2026-05-13T17:50:58.088Z | 30.01 KB   | 3c06559cabc7356464e62145338c35a27d10ceab9a2c98850c09938cf7c4cc9f | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\chat_log_session_4.txt
+2026-05-13T17:50:58.089Z | 127 Bytes  | 728b00f412f00511092cb19dcf735a0eaccbfcc0f334e2b2d5a37ed22731e4db | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\integration_meta.json
+2026-05-13T17:50:58.090Z | 11.54 KB   | 33f8bd3ec3f178134639746633a12af97ba4f725ce25933588e94ddcbeeda05b | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690878610.json
+2026-05-13T17:50:58.091Z | 11.94 KB   | 645615b21b92827f8db28fe8ee39136cbc4e5a99f807e8277c2c57bedf3dbd2d | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778690920529.json
+2026-05-13T17:50:58.091Z | 15.28 KB   | 8ac87bb5e4d30c5a31d249b61dfa69865f3d082617a8ed1112c2e4e35aed07ab | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691049387.json
+2026-05-13T17:50:58.092Z | 17.67 KB   | 2e2df0ad2f9c4cf8c89315f1a0f1e94f8b7e0ed62c1169fcd4b761167955f3bb | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memories\event_1778691312638.json
+2026-05-13T17:50:58.092Z | 3.04 KB    | cd4c2e701f4ac9db069bf8085470e92215f48064c4b69307991bda59d06ccdd2 | data\checkpoints\qwen3-vl-2b-instruct.gguf\session_4\memory_graph.json
+2026-05-13T17:50:58.093Z | 88.01 KB   | aaff52b37b38d7decefa34208677d481e03d5dc6a566a3e59a88ad6c30ff587a | data\timeline.jsonl
+2026-05-13T17:50:58.167Z | 43.82 MB   | 797b70c4edf85907fe0a49eb85811256f65fa0f7bf52166b147fd16be2be4662 | models\all-MiniLM-L6-v2-ggml-model-f16.gguf
+2026-05-13T17:51:01.229Z | 1.41 GB    | ba06adb9373cfa2ad34ef5b6b5fadc725df730b551d84675db6c5d576370b646 | models\MiniCPM-V-4-6-bf16.gguf
+2026-05-13T17:51:07.239Z | 3.21 GB    | 27b80f2e258f8372c9ee3a9b2293bd747cc08b18ed99709b57288cf457c42595 | models\qwen3-vl-2b-instruct.gguf
+2026-05-13T17:51:07.249Z | 92.27 KB   | 65a4a713dc6346e59707873aed581f86ba35f692534ca00bd914cfd680966962 | package-lock.json
+2026-05-13T17:51:07.249Z | 248 Bytes  | 0593a6a65004a8bcf0434b6e635bad8e788c67adb6acda788cdde0d546a2d1b0 | package.json
+2026-05-13T17:51:07.250Z | 12.55 KB   | 919f3a5f23ade0d7aee397b42ab7273f78f65d3d90858467f6da1156dea5dfb6 | public\app.js
+2026-05-13T17:51:07.251Z | 3.4 KB     | 5ed5988576ebc0bedeba0d90f21b13c7858e3c4d049bc058a18a045ecd5255c2 | public\index.html
+2026-05-13T17:51:07.251Z | 9.6 KB     | 17655139d2b9070887b77f01cf10bda6dd949fae56199cfb484cc94d241bd989 | public\memory-animation.js
+2026-05-13T17:51:07.251Z | 7.14 KB    | ebb97c41d36e008bff7c8a72b2f17b60ff74997bae83547afecb0fe56b847c72 | public\style.css
+2026-05-13T17:51:07.252Z | 9.78 KB    | 673f0b1b55882e55efa509db4e49d45815ad2097a7ec00a3de4c6efb476e1f7b | server.js
+2026-05-13T17:51:07.252Z | 6.06 KB    | fa3e6e3d0688c9d3e8faaf3058ca36d44e94a4560cb7895a3e39e3f32ee2d95e | src\llm.js
+2026-05-13T17:51:07.254Z | 14.58 KB   | 12ccfc27cfc3ad04b4970c9871a3ab079d8adb9eb07abf7343cea0c1802fae7c | src\memory.js
+2026-05-13T17:51:07.260Z | 2.24 KB    | b5290ad48bfd84bff094e30f67d672bf74a86729904d2ece10cccf6a26a687a5 | src\timeline.js
+2026-05-13T17:51:07.261Z | 2.19 KB    | 73fb00bd339e8328d013c22e0211d1b8b6239a183c0e1eeb8155c69015b2e0f5 | src\utils.js
+2026-05-13T17:51:07.262Z | 1.49 KB    | 81e21063f89d5039968bfe608bb2b57c0863fe5e335d9019cbd4784877cb3ac5 | symbiotic-contract-MiniCPM-V-4-6-bf16-RonniRoss-planet-earth.json
+==================================================
